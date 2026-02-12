@@ -1,0 +1,4 @@
+name: subroulette
+version: 0.0.1
+description: A fun subreddit guessing game built with Devvit Web
+main: src/main.tsx
